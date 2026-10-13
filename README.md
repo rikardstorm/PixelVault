@@ -1,4 +1,4 @@
-# Pixel Takeout Uploader
+# PixelVault
 
 Move a large Google Photos Takeout library through an original Pixel in small,
 resumable batches. The phone performs the cloud backup using Google Photos;
