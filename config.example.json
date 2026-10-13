@@ -1,0 +1,23 @@
+{
+  "account": "example@gmail.com",
+  "serial": "YOUR_PIXEL_SERIAL",
+  "archives": [
+    "C:/path/to/takeout-001.zip",
+    "C:/path/to/takeout-002.zip"
+  ],
+  "phone_folder": "/storage/emulated/0/Pictures/PixelTakeout",
+  "tools": {
+    "adb": "adb",
+    "exiftool": "exiftool"
+  },
+  "batch": {
+    "max_files": 200,
+    "max_bytes": 500000000,
+    "min_free_bytes": 5000000000
+  },
+  "temperature": {
+    "resume_c": 40,
+    "new_batch_c": 41,
+    "pause_c": 43
+  }
+}

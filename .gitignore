@@ -1,0 +1,12 @@
+# User identity, archives, credentials, phone snapshots and runtime records
+config.json
+config.*.local.json
+.pixel-uploader/
+*.zip
+*.dpapi
+*.sqlite*
+*.log
+*.xml
+__pycache__/
+*.py[cod]
+.venv/
